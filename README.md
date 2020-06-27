@@ -1,37 +1,27 @@
-## AP002	Metaphysics
+AP002	形上学
 
-You can use the [editor on GitHub](https://github.com/tquadrivium/metaphysics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+该课程所使用的主要文本是王文方老师的《形上学》一书。该书以分析的方式讨论形而上学的问题，涵盖内容广，阐述清晰，简明易懂，是入门分析形上学不可多得的著作。透过本书的介绍，读者们足以一窥当代形上学讨论的全貌。该书讨论的问题包括：形上学的范围与方法为何？可能世界是否存在？是否有虚构的事物？自由意志如何可能？真理是什么？构成等同的条件为何？殊相之外是否还有共相？是否有抽象的事物？实在论与反实在论之间的争议如何评断？以上问题皆为当代分析哲学中热烈讨论的问题。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在线阅读：https://tquadrivium.github.io/Metaphysics/
 
-### Markdown
+### 1.关于王文方
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+王文方是台湾阳明大学教授、心智哲学研究所所长，美国爱荷华大学哲学（University of Iowa）博士，中山大学、南京大学、中国人民大学、台湾大学、东吴大学等高校兼职教授。其主要研究领域为逻辑学、分析哲学、心智哲学、佛学。出版《这是个什么样的世界》、《形上学》、《语言哲学》、《逻辑》、《个体论》等著（译）作，在中英文重要学术期刊发表论文50余篇，担任《逻辑学研究》等重要学术期刊客座编辑。
 
-```markdown
-Syntax highlighted code block
+### 2.关于读书会
 
-# Header 1
-## Header 2
-### Header 3
+读书会由各个高校的哲学在读研究生共同组建（主要是分析哲学方向），最初由Hao ZHAN和Cheng LI发起。
 
-- Bulleted
-- List
+读书会项目地址：https://github.com/tquadrivium
 
-1. Numbered
-2. List
+### 3.学习形式
 
-**Bold** and _Italic_ and `Code` text
+采用线上学习的形式（微信群+腾讯会议/飞书），每周阅读《形上学》的一章内容。每周先由领读人梳理章节内容（20-30分钟），然后大家对阅读时所遇到的问题和难点进行讨论（40-80分钟）
 
-[Link](url) and ![Image](src)
-```
+每次读书会的内容会以文本和视频的形式发布在该项目中，方便没能参与到讨论中的朋友观看。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 4.参与方法
 
-### Jekyll Themes
+将基本情况（如学校、专业方向、年级）和加入读书会的理由（100字以内）发送到 [haozhan1993@gmail.com](mailto:haozhan1993@gmail.com) ，邮件题目为：姓名+王文方的《形上学》读书会报名
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tquadrivium/metaphysics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我们会尽可能快的进行答复。
