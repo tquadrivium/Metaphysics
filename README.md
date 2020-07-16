@@ -8,7 +8,7 @@
 
 - Chapter 01：导论
 
-  [[slides]](slides/chapter01/chapter01.pdf) [[video 1]](https://www.bilibili.com/video/BV1fZ4y1u7mA/) [video 2]
+  [[slides]](slides/chapter01.pdf) [[video 1]](https://www.bilibili.com/video/BV1fZ4y1u7mA/) [video 2]
 
 - Chapter 02：模态性与可能世界
 
