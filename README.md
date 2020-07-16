@@ -8,7 +8,7 @@
 
 - Chapter 01：导论
 
-  [slides] [video]
+  [[slides]](slides/chapter01/chapter01.pdf) [[video 1]](https://www.bilibili.com/video/BV1fZ4y1u7mA/) [video 2]
 
 - Chapter 02：模态性与可能世界
 
@@ -50,7 +50,9 @@
 
 读书会由各个高校的哲学在读研究生共同组建（主要是分析哲学方向），最初由Hao ZHAN和Cheng LI发起。
 
-读书会项目地址：https://github.com/tquadrivium
+更多读书会项目地址：sanyisishu.com
+
+我们的公众微信号：三艺四术
 
 ### 4.学习形式
 
@@ -73,4 +75,4 @@
 
 负责人	：	[Hao ZHAN](https://github.com/zhanhao93)
 
-项目成员：	李铖
+项目成员：	李铖、王昱博、张天雨、陶俊成、刘亚洲、陈煦焜、杨曦、李沁安、何宏剑、何驰豫、李子怡、许旻
