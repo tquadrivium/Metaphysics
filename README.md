@@ -14,11 +14,11 @@
 
 - Chapter 01：导论
 
-  [[slides 1]](slides/chapter01/01.pdf)  [[slides 2]](slides/chapter01/02.pdf)  [[video 1]](https://www.bilibili.com/video/BV1fZ4y1u7mA) [[video 2]](https://www.bilibili.com/video/BV1qp4y1q7Vt)
+  [[slides1]](slides/chapter01/01.pdf)  [[slides2]](slides/chapter01/02.pdf)  [[video 1]](https://www.bilibili.com/video/BV1fZ4y1u7mA) [[video 2]](https://www.bilibili.com/video/BV1qp4y1q7Vt)
 
 - Chapter 02：模态性与可能世界
 
-  [slides] [video]
+  [[slides1]](slides/chapter02/1.pdf)  [[slides2]](slides/chapter02/2.pdf)  [[video1]](https://www.bilibili.com/video/BV1u54y1U733/) [[video2]](https://www.bilibili.com/video/BV1qK4y1v7LA/)
 
 - Chapter 03：不存在的东西
 
