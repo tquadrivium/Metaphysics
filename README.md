@@ -22,7 +22,7 @@
 
 - Chapter 03：不存在的东西
 
-  [slides] [video]
+  [[slides]](slides/chapter03/1.pdf) [[video]](https://www.bilibili.com/video/BV1u54y1i7vA/)
 
 - Chapter 04：自由意志
 
