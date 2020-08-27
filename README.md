@@ -26,11 +26,11 @@
 
 - Chapter 04：自由意志
 
-  [slides] [video]
+  [[slides]](slides/chapter04/1.pdf) [[video]](https://www.bilibili.com/video/BV1Ck4y1274Q/)
 
 - Chapter 05：真理
 
-  [slides] [video]
+  [[slides]](slides/chapter05/1.pdf) [[video]]()
 
 - Chapter 06：等同
 
